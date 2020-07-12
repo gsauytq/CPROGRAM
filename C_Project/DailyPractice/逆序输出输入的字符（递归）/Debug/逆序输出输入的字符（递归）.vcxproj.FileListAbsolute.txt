@@ -1,0 +1,2 @@
+C:\Users\ytq\Desktop\C_Project\日常练习\逆序输出输入的字符（递归）\Debug\逆序输出输入的字符（递归）.exe
+C:\Users\ytq\Desktop\C_Project\日常练习\逆序输出输入的字符（递归）\Debug\逆序输出输入的字符（递归）.pdb

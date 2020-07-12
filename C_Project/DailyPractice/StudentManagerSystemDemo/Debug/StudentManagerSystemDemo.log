@@ -1,0 +1,24 @@
+﻿  StudentManagerSystemDemo.c
+C:\Users\ytq\Desktop\C_Project\日常练习\StudentManagerSystemDemo\StudentManagerSystemDemo.c(43,22): warning C4013: “outputdata”未定义；假设外部返回 int
+C:\Users\ytq\Desktop\C_Project\日常练习\StudentManagerSystemDemo\StudentManagerSystemDemo.c(45,19): warning C4013: “newdata”未定义；假设外部返回 int
+C:\Users\ytq\Desktop\C_Project\日常练习\StudentManagerSystemDemo\StudentManagerSystemDemo.c(47,22): warning C4013: “deletedata”未定义；假设外部返回 int
+C:\Users\ytq\Desktop\C_Project\日常练习\StudentManagerSystemDemo\StudentManagerSystemDemo.c(85,21): warning C4013: “importdata”未定义；假设外部返回 int
+C:\Users\ytq\Desktop\C_Project\日常练习\StudentManagerSystemDemo\StudentManagerSystemDemo.c(87,21): warning C4013: “exportdata”未定义；假设外部返回 int
+C:\Users\ytq\Desktop\C_Project\日常练习\StudentManagerSystemDemo\StudentManagerSystemDemo.c(89,18): warning C4013: “adddata”未定义；假设外部返回 int
+C:\Users\ytq\Desktop\C_Project\日常练习\StudentManagerSystemDemo\StudentManagerSystemDemo.c(109,17): warning C4013: “idseek”未定义；假设外部返回 int
+C:\Users\ytq\Desktop\C_Project\日常练习\StudentManagerSystemDemo\StudentManagerSystemDemo.c(111,19): warning C4013: “nameseek”未定义；假设外部返回 int
+C:\Users\ytq\Desktop\C_Project\日常练习\StudentManagerSystemDemo\StudentManagerSystemDemo.c(113,20): warning C4013: “gradeseek”未定义；假设外部返回 int
+C:\Users\ytq\Desktop\C_Project\日常练习\StudentManagerSystemDemo\StudentManagerSystemDemo.c(115,20): warning C4013: “classseek”未定义；假设外部返回 int
+C:\Users\ytq\Desktop\C_Project\日常练习\StudentManagerSystemDemo\StudentManagerSystemDemo.c(117,20): warning C4013: “scoreseek”未定义；假设外部返回 int
+StudentManagerSystemDemo.obj : error LNK2019: 无法解析的外部符号 _outputdata，该符号在函数 _main 中被引用
+StudentManagerSystemDemo.obj : error LNK2019: 无法解析的外部符号 _newdata，该符号在函数 _main 中被引用
+StudentManagerSystemDemo.obj : error LNK2019: 无法解析的外部符号 _deletedata，该符号在函数 _main 中被引用
+StudentManagerSystemDemo.obj : error LNK2019: 无法解析的外部符号 _importdata，该符号在函数 _createstudentdata 中被引用
+StudentManagerSystemDemo.obj : error LNK2019: 无法解析的外部符号 _exportdata，该符号在函数 _createstudentdata 中被引用
+StudentManagerSystemDemo.obj : error LNK2019: 无法解析的外部符号 _adddata，该符号在函数 _createstudentdata 中被引用
+StudentManagerSystemDemo.obj : error LNK2019: 无法解析的外部符号 _idseek，该符号在函数 _searchdata 中被引用
+StudentManagerSystemDemo.obj : error LNK2019: 无法解析的外部符号 _nameseek，该符号在函数 _searchdata 中被引用
+StudentManagerSystemDemo.obj : error LNK2019: 无法解析的外部符号 _gradeseek，该符号在函数 _searchdata 中被引用
+StudentManagerSystemDemo.obj : error LNK2019: 无法解析的外部符号 _classseek，该符号在函数 _searchdata 中被引用
+StudentManagerSystemDemo.obj : error LNK2019: 无法解析的外部符号 _scoreseek，该符号在函数 _searchdata 中被引用
+C:\Users\ytq\Desktop\C_Project\日常练习\StudentManagerSystemDemo\Debug\StudentManagerSystemDemo.exe : fatal error LNK1120: 11 个无法解析的外部命令

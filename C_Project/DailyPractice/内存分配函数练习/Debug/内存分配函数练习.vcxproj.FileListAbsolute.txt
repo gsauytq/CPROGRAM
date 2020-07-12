@@ -1,0 +1,2 @@
+C:\Users\ytq\Desktop\C_Project\DailyPractice\内存分配函数练习\Debug\内存分配函数练习.exe
+C:\Users\ytq\Desktop\C_Project\DailyPractice\内存分配函数练习\Debug\内存分配函数练习.pdb

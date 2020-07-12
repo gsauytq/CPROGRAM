@@ -1,0 +1,2 @@
+C:\Users\ytq\Desktop\C_Project\日常练习\孪生素数（2）\Debug\孪生素数（2）.exe
+C:\Users\ytq\Desktop\C_Project\日常练习\孪生素数（2）\Debug\孪生素数（2）.pdb

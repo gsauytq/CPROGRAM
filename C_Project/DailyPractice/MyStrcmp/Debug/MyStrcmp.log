@@ -1,0 +1,4 @@
+﻿cl : command line warning D9025: overriding '/sdl' with '/GS-'
+  Source.c
+C:\Users\ytq\Desktop\C_Project\DailyPractice\MyStrcmp\Source.c(11,6): warning C4013: 'gets' undefined; assuming extern returning int
+  MyStrcmp.vcxproj -> C:\Users\ytq\Desktop\C_Project\DailyPractice\MyStrcmp\Debug\MyStrcmp.exe

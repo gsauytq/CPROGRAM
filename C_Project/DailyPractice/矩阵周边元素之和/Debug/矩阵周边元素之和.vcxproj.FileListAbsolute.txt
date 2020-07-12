@@ -1,0 +1,2 @@
+C:\Users\ytq\Desktop\C_Project\日常练习\矩阵周边元素之和\Debug\矩阵周边元素之和.exe
+C:\Users\ytq\Desktop\C_Project\日常练习\矩阵周边元素之和\Debug\矩阵周边元素之和.pdb

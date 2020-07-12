@@ -1,0 +1,4 @@
+﻿  Source.c
+C:\Users\ytq\Desktop\C_Project\DailyPractice\字符数组排序\Source.c(9,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ytq\Desktop\C_Project\DailyPractice\字符数组排序\Source.c(11,21): warning C4018: '<': signed/unsigned mismatch
+  字符数组排序.vcxproj -> C:\Users\ytq\Desktop\C_Project\DailyPractice\字符数组排序\Debug\字符数组排序.exe

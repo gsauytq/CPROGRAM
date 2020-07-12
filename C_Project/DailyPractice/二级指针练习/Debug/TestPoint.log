@@ -1,0 +1,3 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(467,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (TestPoint.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Source.c
+  TestPoint.vcxproj -> C:\Users\ytq\Desktop\C_Project\DailyPractice\TestPoint\Debug\二级指针.exe

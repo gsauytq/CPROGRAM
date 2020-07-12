@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "循环结构5.18", "循环结构5.18\循环结构5.18.vcxproj", "{6676300C-AAC9-42F4-9691-4E2CBC91D261}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6676300C-AAC9-42F4-9691-4E2CBC91D261}.Debug|Win32.ActiveCfg = Debug|Win32
+		{6676300C-AAC9-42F4-9691-4E2CBC91D261}.Debug|Win32.Build.0 = Debug|Win32
+		{6676300C-AAC9-42F4-9691-4E2CBC91D261}.Release|Win32.ActiveCfg = Release|Win32
+		{6676300C-AAC9-42F4-9691-4E2CBC91D261}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

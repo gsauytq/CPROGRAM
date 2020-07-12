@@ -1,0 +1,3 @@
+D:/Clion/untitled3/cmake-build-debug/CMakeFiles/untitled3.dir
+D:/Clion/untitled3/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Clion/untitled3/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,2 @@
+C:\Users\ytq\Desktop\C_Project\DailyPractice\HelloWorld的多种写法\Debug\Project5.exe
+C:\Users\ytq\Desktop\C_Project\DailyPractice\HelloWorld的多种写法\Debug\Project5.pdb

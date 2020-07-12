@@ -1,0 +1,2 @@
+C:\Users\ytq\Desktop\C_Project\日常练习\字符串提醒列表\Debug\字符串提醒列表.exe
+C:\Users\ytq\Desktop\C_Project\日常练习\字符串提醒列表\Debug\字符串提醒列表.pdb

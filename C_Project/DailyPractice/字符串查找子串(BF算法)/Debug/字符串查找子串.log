@@ -1,0 +1,4 @@
+﻿  字符串查找子串.c
+C:\Users\ytq\Desktop\C_project\日常练习\字符串查找子串\字符串查找子串.c(9,6): warning C4101: “i”: 未引用的局部变量
+C:\Users\ytq\Desktop\C_project\日常练习\字符串查找子串\字符串查找子串.c(53): warning C4715: “Substring”: 不是所有的控件路径都返回值
+  字符串查找子串.vcxproj -> C:\Users\ytq\Desktop\C_project\日常练习\字符串查找子串\Debug\字符串查找子串.exe

@@ -1,0 +1,42 @@
+#include <stdio.h>
+#include <math.h>
+
+int prime(int n);
+
+int main(void)
+{
+	int i, n;
+
+	printf("Please enter the range of prime numbers:");
+	scanf_s("%d", &n);
+
+	for (i = 2; i <= n; i++)
+	{
+		if (prime(i) && prime(i + 2))
+		{
+			printf("%d\t%d\n", i, i + 2);
+		}
+	}
+
+	return 0;
+}
+
+int prime(int n)
+{
+	int i;
+
+	for (i = 2; i <= sqrt(n); i++)
+	{
+		if (n % i == 0)
+			break;
+	}
+
+	if (i > sqrt(n))
+	{
+		return 1;
+	}
+	else
+	{
+		return 0;
+	}
+}

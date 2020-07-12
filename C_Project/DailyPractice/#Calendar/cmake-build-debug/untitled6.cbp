@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="untitled6"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="D:/Clion/untitled6/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/MinGW64/bin/mingw32-make.exe -f &quot;D:/Clion/untitled6/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="D:/MinGW64/bin/mingw32-make.exe -f &quot;D:/Clion/untitled6/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/MinGW64/bin/mingw32-make.exe -f &quot;D:/Clion/untitled6/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/MinGW64/bin/mingw32-make.exe -f &quot;D:/Clion/untitled6/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="untitled6">
+				<Option output="D:/Clion/untitled6/cmake-build-debug/untitled6.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Clion/untitled6/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include"/>
+					<Add directory="D:/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../include"/>
+					<Add directory="D:/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include-fixed"/>
+					<Add directory="D:/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/MinGW64/bin/mingw32-make.exe -f &quot;D:/Clion/untitled6/cmake-build-debug/Makefile&quot;  VERBOSE=1 untitled6"/>
+					<CompileFile command="D:/MinGW64/bin/mingw32-make.exe -f &quot;D:/Clion/untitled6/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/MinGW64/bin/mingw32-make.exe -f &quot;D:/Clion/untitled6/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/MinGW64/bin/mingw32-make.exe -f &quot;D:/Clion/untitled6/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="untitled6/fast">
+				<Option output="D:/Clion/untitled6/cmake-build-debug/untitled6.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Clion/untitled6/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include"/>
+					<Add directory="D:/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../include"/>
+					<Add directory="D:/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include-fixed"/>
+					<Add directory="D:/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/MinGW64/bin/mingw32-make.exe -f &quot;D:/Clion/untitled6/cmake-build-debug/Makefile&quot;  VERBOSE=1 untitled6/fast"/>
+					<CompileFile command="D:/MinGW64/bin/mingw32-make.exe -f &quot;D:/Clion/untitled6/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/MinGW64/bin/mingw32-make.exe -f &quot;D:/Clion/untitled6/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/MinGW64/bin/mingw32-make.exe -f &quot;D:/Clion/untitled6/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="untitled23">
+				<Option output="D:/Clion/untitled6/cmake-build-debug/untitled23.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Clion/untitled6/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include"/>
+					<Add directory="D:/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../include"/>
+					<Add directory="D:/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include-fixed"/>
+					<Add directory="D:/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/MinGW64/bin/mingw32-make.exe -f &quot;D:/Clion/untitled6/cmake-build-debug/Makefile&quot;  VERBOSE=1 untitled23"/>
+					<CompileFile command="D:/MinGW64/bin/mingw32-make.exe -f &quot;D:/Clion/untitled6/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/MinGW64/bin/mingw32-make.exe -f &quot;D:/Clion/untitled6/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/MinGW64/bin/mingw32-make.exe -f &quot;D:/Clion/untitled6/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="untitled23/fast">
+				<Option output="D:/Clion/untitled6/cmake-build-debug/untitled23.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Clion/untitled6/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include"/>
+					<Add directory="D:/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../include"/>
+					<Add directory="D:/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include-fixed"/>
+					<Add directory="D:/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/MinGW64/bin/mingw32-make.exe -f &quot;D:/Clion/untitled6/cmake-build-debug/Makefile&quot;  VERBOSE=1 untitled23/fast"/>
+					<CompileFile command="D:/MinGW64/bin/mingw32-make.exe -f &quot;D:/Clion/untitled6/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/MinGW64/bin/mingw32-make.exe -f &quot;D:/Clion/untitled6/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/MinGW64/bin/mingw32-make.exe -f &quot;D:/Clion/untitled6/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="D:/Clion/untitled6/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/MinGW64/bin/mingw32-make.exe -f &quot;D:/Clion/untitled6/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="D:/MinGW64/bin/mingw32-make.exe -f &quot;D:/Clion/untitled6/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/MinGW64/bin/mingw32-make.exe -f &quot;D:/Clion/untitled6/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/MinGW64/bin/mingw32-make.exe -f &quot;D:/Clion/untitled6/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="D:/Clion/untitled6/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/MinGW64/bin/mingw32-make.exe -f &quot;D:/Clion/untitled6/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="D:/MinGW64/bin/mingw32-make.exe -f &quot;D:/Clion/untitled6/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/MinGW64/bin/mingw32-make.exe -f &quot;D:/Clion/untitled6/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/MinGW64/bin/mingw32-make.exe -f &quot;D:/Clion/untitled6/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="D:/Clion/untitled6/main.c">
+			<Option target="untitled6"/>
+		</Unit>
+		<Unit filename="D:/Clion/untitled6/main1.c">
+			<Option target="untitled23"/>
+		</Unit>
+		<Unit filename="D:/Clion/untitled6/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

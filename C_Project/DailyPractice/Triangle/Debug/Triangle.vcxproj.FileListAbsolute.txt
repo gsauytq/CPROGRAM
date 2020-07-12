@@ -1,0 +1,4 @@
+C:\Users\ytq\Desktop\C_Project\日常练习\Triangle\Debug\Triangle.exe
+C:\Users\ytq\Desktop\C_Project\日常练习\Triangle\Debug\Triangle.pdb
+C:\Users\ytq\Desktop\C_Project\DailyPractice\Triangle\Debug\Triangle.exe
+C:\Users\ytq\Desktop\C_Project\DailyPractice\Triangle\Debug\Triangle.pdb

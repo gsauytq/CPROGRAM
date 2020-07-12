@@ -1,0 +1,4 @@
+C:\Users\ytq\Desktop\C_Project\日常练习\时间程序\Debug\时间程序.exe
+C:\Users\ytq\Desktop\C_Project\日常练习\时间程序\Debug\时间程序.pdb
+C:\Users\ytq\Desktop\C_Project\DailyPractice\时间程序\Debug\时间程序.exe
+C:\Users\ytq\Desktop\C_Project\DailyPractice\时间程序\Debug\时间程序.pdb

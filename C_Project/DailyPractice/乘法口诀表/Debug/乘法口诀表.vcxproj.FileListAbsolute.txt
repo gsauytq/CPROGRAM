@@ -1,0 +1,2 @@
+C:\Users\ytq\Desktop\C_Project\DailyPractice\乘法口诀表\Debug\乘法口诀表.exe
+C:\Users\ytq\Desktop\C_Project\DailyPractice\乘法口诀表\Debug\乘法口诀表.pdb

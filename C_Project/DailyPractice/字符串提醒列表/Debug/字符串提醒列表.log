@@ -1,0 +1,7 @@
+﻿cl : 命令行 warning D9025: 正在重写“/sdl”(用“/GS-”)
+  字符串提醒列表.c
+C:\Users\ytq\Desktop\C_Project\日常练习\字符串提醒列表\字符串提醒列表.c(26,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ytq\Desktop\C_Project\日常练习\字符串提醒列表\字符串提醒列表.c(35,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ytq\Desktop\C_Project\日常练习\字符串提醒列表\字符串提醒列表.c(38,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ytq\Desktop\C_Project\日常练习\字符串提醒列表\字符串提醒列表.c(39,3): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  字符串提醒列表.vcxproj -> C:\Users\ytq\Desktop\C_Project\日常练习\字符串提醒列表\Debug\字符串提醒列表.exe

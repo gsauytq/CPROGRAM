@@ -1,0 +1,2 @@
+C:\Users\ytq\Desktop\C_Project\DailyPractice\二位数组指针练习\Debug\二位数组指针练习.exe
+C:\Users\ytq\Desktop\C_Project\DailyPractice\二位数组指针练习\Debug\二位数组指针练习.pdb

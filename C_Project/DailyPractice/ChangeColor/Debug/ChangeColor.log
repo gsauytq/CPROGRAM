@@ -1,0 +1,4 @@
+﻿cl : command line warning D9025: overriding '/sdl' with '/GS-'
+  ChangeColor.c
+C:\Users\ytq\Desktop\C_Project\DailyPractice\ChangeColor\ChangeColor.c(10,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  ChangeColor.vcxproj -> C:\Users\ytq\Desktop\C_Project\DailyPractice\ChangeColor\Debug\ChangeColor.exe

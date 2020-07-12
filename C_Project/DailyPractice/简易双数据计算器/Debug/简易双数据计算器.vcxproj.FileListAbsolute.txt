@@ -1,0 +1,2 @@
+C:\Users\ytq\Desktop\C_Project\日常练习\简易双数据计算器\Debug\简易双数据计算器.exe
+C:\Users\ytq\Desktop\C_Project\日常练习\简易双数据计算器\Debug\简易双数据计算器.pdb

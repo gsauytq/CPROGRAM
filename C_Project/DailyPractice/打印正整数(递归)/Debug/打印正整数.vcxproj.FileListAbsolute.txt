@@ -1,0 +1,2 @@
+C:\Users\ytq\Desktop\C_Project\DailyPractice\打印正整数\Debug\打印正整数.exe
+C:\Users\ytq\Desktop\C_Project\DailyPractice\打印正整数\Debug\打印正整数.pdb

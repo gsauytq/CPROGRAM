@@ -1,0 +1,2 @@
+C:\Users\ytq\Desktop\C_Project\日常练习\统计单词个数\Debug\统计单词个数.exe
+C:\Users\ytq\Desktop\C_Project\日常练习\统计单词个数\Debug\统计单词个数.pdb

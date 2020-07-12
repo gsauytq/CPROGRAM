@@ -1,0 +1,2 @@
+C:\Users\ytq\Desktop\C_Project\DailyPractice\求阶乘的和\Debug\求阶乘的和.exe
+C:\Users\ytq\Desktop\C_Project\DailyPractice\求阶乘的和\Debug\求阶乘的和.pdb

@@ -1,0 +1,4 @@
+﻿cl : command line warning D9025: overriding '/sdl' with '/GS-'
+  时间程序.c
+C:\Users\ytq\Desktop\C_Project\DailyPractice\时间程序\时间程序.c(12,20): warning C4996: 'ctime': This function or variable may be unsafe. Consider using ctime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  时间程序.vcxproj -> C:\Users\ytq\Desktop\C_Project\DailyPractice\时间程序\Debug\时间程序.exe

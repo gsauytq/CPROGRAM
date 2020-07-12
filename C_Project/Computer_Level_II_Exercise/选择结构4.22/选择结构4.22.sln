@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "选择结构4.22", "选择结构4.22\选择结构4.22.vcxproj", "{64EFA1AC-5CD8-4D3B-8361-812A6A87D713}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64EFA1AC-5CD8-4D3B-8361-812A6A87D713}.Debug|Win32.ActiveCfg = Debug|Win32
+		{64EFA1AC-5CD8-4D3B-8361-812A6A87D713}.Debug|Win32.Build.0 = Debug|Win32
+		{64EFA1AC-5CD8-4D3B-8361-812A6A87D713}.Release|Win32.ActiveCfg = Release|Win32
+		{64EFA1AC-5CD8-4D3B-8361-812A6A87D713}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

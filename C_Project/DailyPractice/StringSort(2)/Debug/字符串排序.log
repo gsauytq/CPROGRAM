@@ -1,0 +1,6 @@
+﻿cl : command line warning D9025: overriding '/sdl' with '/GS-'
+  Source.c
+C:\Users\ytq\Desktop\C_Project\DailyPractice\字符串排序\Source.c(23,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ytq\Desktop\C_Project\DailyPractice\字符串排序\Source.c(24,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ytq\Desktop\C_Project\DailyPractice\字符串排序\Source.c(25,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  字符串排序.vcxproj -> C:\Users\ytq\Desktop\C_Project\DailyPractice\字符串排序\Debug\字符串排序.exe

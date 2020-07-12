@@ -1,0 +1,2 @@
+C:\Users\ytq\Desktop\C_Project\DailyPractice\魔方阵\Debug\魔方阵.exe
+C:\Users\ytq\Desktop\C_Project\DailyPractice\魔方阵\Debug\魔方阵.pdb
